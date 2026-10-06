@@ -1,0 +1,10 @@
+{
+  "model_id": "microsoft/resnet-18",
+  "experiment": "ImageNet-pretrained backbone with random 10-class head",
+  "fine_tuned": false,
+  "seed": 42,
+  "device": "cuda",
+  "samples": 10000,
+  "correct": 976,
+  "accuracy_percent": 9.76
+}
