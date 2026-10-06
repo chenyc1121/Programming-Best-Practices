@@ -1,3 +1,5 @@
+aloha
+
 ## 学习总结
 
 - git add 将内容放入暂存区；git commit 保存本地版本；git push 同步到远端。
